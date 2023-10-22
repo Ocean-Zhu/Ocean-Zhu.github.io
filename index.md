@@ -13,7 +13,9 @@ I am currently a Ph.D. student in Ocean Technology and Engineering at [zhejiang
 - **Soft robotic fish** soft matter mechanics, smart material & structures, underwater equipment, artificial muscle.
 - **Offshore geotechnical engineering** cone penetration test (CPT), dynamic penetration test (DPT), submarine topography monitoring technology(based MEMS), stratum-drilling robots, electromagnetic emission(EME).
 - **AUV** FSI(fluid-structure interaction), navigation, underwater vision, underwater structures mapping based on AUV(e.g. subsea pipelines).
-- **Rheology** rheology of multiphase flow, clay rheology.
+- **Rheology** rheology of multiphase flow, clay rheology
+- **Healthcare devices** wearable devices, medical equipment，brain-computer interface.
+- **AR/VR/MR**
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
