@@ -13,8 +13,7 @@ address_link: https://www.google.com/maps/place/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%A
 # Search Engine Optimization (SEO)
 keywords: hai zhu, zhu hai, haizhu, zhuhai
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
-
+description: 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
 
