@@ -6,13 +6,14 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently a Ph.D. student in Ocean Technology and Engineering at [zhejiang University](https://www.zju.edu.cn/english/), working under the mentorship of [Professor Jiawang Chen](https://www.researchgate.net/profile/Jiawang-Chen), [Professor Yuan Lin](https://person.zju.edu.cn/en/linyuan#0), and [Professor Peiliang Li](https://person.zju.edu.cn/en/lipeiliang#0). My research focuses on the following aspects of ocean engineering: pipeline engineering, gas hydrates, soft robotic fish, offshore geotechnical engineering, and rheology, with a special focus on the external inspection of subsea pipelines and pipe-soil interaction.
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Pipeline engineering:** external pipeline inspection, in-line inspection(ILI), in-situ pipeline repair, underwater habitat, 3D structured light mapping, pipe-soil interaction.
+- **Gas hydrates:** pressure-maintain and transfer of hydrate samples, high-fidelity cutting technology for hydrate samples, CO2 Capture.
+- **Soft robotic fish** soft matter mechanics, smart material & structures, underwater equipment, artificial muscle.
+- **Offshore geotechnical engineering** cone penetration test (CPT), dynamic penetration test (DPT), submarine topography monitoring technology(based MEMS), stratum-drilling robots, electromagnetic emission(EME).
+- **AUV** FSI(fluid-structure interaction), navigation, underwater vision, underwater structures mapping based on AUV(e.g. subsea pipelines).
+- **Rheology** rheology of multiphase flow, clay rheology.
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
