@@ -6,7 +6,7 @@
 
 <li><strong>[DEC. 2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">The National Scholarship for Doctoral Students of China.</a></span></li>
 <li><strong>[JAN. 2023]</strong> <span style="color:#e74d3c"><a href="/assets/files/Best paper of Journal of Zhejiang University-SCIENCE A.pdf">Best paper of Journal of Zhejiang University-SCIENCE A.</a></span></li>
-<li><strong>[DEC. 2022]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">First Prize of the 7th "Ocean Tide Cup" at Ocean College, Zhejiang University.</a> (First order).</span></li>
+<li><strong>[DEC. 2022]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">First Prize of the 7th "Ocean Tide Cup" at Ocean College, Zhejiang University.</a></span> (First order).</li>
 <li><strong>[JUL. 2022]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">The third Prize in the 9th China Graduate Energy Equipment Innovation Design Competition</a></span> (First order).</li>
 <li><strong>[DEC. 2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">Second Prize of the 6th "Ocean Tide Cup" at Ocean College, Zhejiang University.</a> (Third order).</span></li>
 <li><strong>[2020-2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">“Graduate of Merit/Tripe A graduate” of Zhejiang University.</a></span></li>
