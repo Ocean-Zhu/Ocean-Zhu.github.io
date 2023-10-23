@@ -16,8 +16,11 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "Blogs"
-    url: ./blog/
+  - title: "Scholarships&Awards"
+    url: ./#Scholarships&Awards
 
+  - title: "Research Interest"
+    url: ./#Research Interest
+ 
   - title: "Bio"
     url: ./#about-me
