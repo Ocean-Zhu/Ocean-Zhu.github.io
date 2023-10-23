@@ -16,10 +16,6 @@ I am currently a Ph.D. student in Ocean Technology and Engineering at [zhejiang
 - **Rheology** rheology of multiphase flow, clay rheology
 - **Healthcare devices** wearable devices, medical equipment, brain-computer interface.
 - **AR/VR/MR**
-{% include_relative _includes/Research Interest.md %}
-
-{% include_relative _includes/Scholarships&Awards.md %}
-
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
