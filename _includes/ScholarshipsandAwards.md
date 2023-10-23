@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[JAN. 2023]</strong> <span style="color:#e74d3c"><a href="/assets/files/Best paper of Journal of Zhejiang University-SCIENCE A.pdf">"Best paper of Journal of Zhejiang University-SCIENCE A."</a></span></li>
+<li><strong>[JAN. 2023]</strong> <span style="color:#e74d3c"><a href="/assets/files/Best paper of Journal of Zhejiang University-SCIENCE A.pdf">Best paper of Journal of Zhejiang University-SCIENCE A.</a></span></li>
 <li><strong>[OCT. 2023]</strong> A Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> was integrated to this personal homepage, the webblog is based on <span style="color:#e74d3c"><a href="https://hexo.io/">Hexo</a></span>: a webblog framework</li>
 <li><strong>[SEP. 2023]</strong> The BeMAGIC Final Event will be held between 14-15 December 2023 at <span style="color:#e74d3c"><a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">UAB</a></span>, Barcelona, Spain.</li>	
 <li><strong>[AUG. 2023]</strong> <a href="https://song-chen1.github.io/">Personal Homepage</a>, I will begin to upload some built-by-myself softwares and scripts to the <span style="color:#e74d3c"><a href="https://github.com/song-chen1/">GitHub</a></span> to help this community.</li>
