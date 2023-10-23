@@ -19,7 +19,7 @@ I am currently a Ph.D. student in Ocean Technology and Engineering at [zhejiang
 
 {% include_relative _includes/Research_Interest.md %}
 
-{% include_relative _includes/Scholarships&Awards.md %}
+{% include_relative _includes/ScholarshipsandAwards.md %}
 
 {% include_relative _includes/news.md %}
 
