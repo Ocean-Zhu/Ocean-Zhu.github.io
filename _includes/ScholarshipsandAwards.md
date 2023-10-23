@@ -4,14 +4,17 @@
 
 <ul>
 
-<li><strong>[JAN. 2023]</strong> <span style="color:#e74d3c"><a href="/assets/files/Best paper of Journal of Zhejiang University-SCIENCE A.pdf">Best paper of Journal of Zhejiang University-SCIENCE A.</a></span></li>
 <li><strong>[DEC. 2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">The National Scholarship for Doctoral Students of China.</a></span></li>
-<li><strong>[SEP. 2023]</strong> The BeMAGIC Final Event will be held between 14-15 December 2023 at <span style="color:#e74d3c"><a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">UAB</a></span>, Barcelona, Spain.</li>	
-<li><strong>[AUG. 2023]</strong> <a href="https://song-chen1.github.io/">Personal Homepage</a>, I will begin to upload some built-by-myself softwares and scripts to the <span style="color:#e74d3c"><a href="https://github.com/song-chen1/">GitHub</a></span> to help this community.</li>
-<li><strong>[AUG. 2023]</strong> I will participate in the upcoming 13th Joint European Magnetic Symposia <a href="https://www.jems2023.es/">JEMS2023</a>, in the form of poster presentation with the title <span style="color:#e74d3c"><a href="./assets/files/JEMS2023_Song">Reversible magneto-Ionic effect in crystallized W-CoFeB-MgO-HfO2 ultra-thin films with perpendicular anisotropy.</a></span></li>
-<li><strong>[JUN. 2023]</strong> Secondment at the institute <a href="https://www.imm.cnr.it/">CNR-IMM</a>, in collarboartion with professor <span style="color:#e74d3c"><a href="https://www.mdm.imm.cnr.it/users/lamperti-alessio">Alessio Lamperti.</a></span></li>
-<li><strong>[DEC. 2022]</strong> Secondment at the  <a href="https://www.aalto.fi/en/department-of-applied-physics">department Applied Physics of Aalto University</a>, in collarboartion with professor <span style="color:#e74d3c"><a href="https://www.aalto.fi/en/people/sebastiaan-van-dijken">Sebastiaan van Dijken.</a></span></li>
-<li><strong>[JUN. 2022]</strong> Secondment at the  <a href="https://www.aalto.fi/en/department-of-applied-physics">department Applied Physics of Aalto University</a>, in collarboartion with professor <span style="color:#e74d3c"><a href="https://www.aalto.fi/en/people/sebastiaan-van-dijken">Sebastiaan van Dijken.</a></span></li>
+<li><strong>[JAN. 2023]</strong> <span style="color:#e74d3c"><a href="/assets/files/Best paper of Journal of Zhejiang University-SCIENCE A.pdf">Best paper of Journal of Zhejiang University-SCIENCE A.</a></span></li>
+<li><strong>[DEC. 2022]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">First Prize of the 7th "Ocean Tide Cup" at Ocean College, Zhejiang University.</a> (First order).</span></li>
+<li><strong>[JUL. 2022]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">The third Prize in the 9th China Graduate Energy Equipment Innovation Design Competition</a></span> (First order).</li>
+<li><strong>[DEC. 2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">Second Prize of the 6th "Ocean Tide Cup" at Ocean College, Zhejiang University.</a> (Third order).</span></li>
+<li><strong>[2020-2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">“Graduate of Merit/Tripe A graduate” of Zhejiang University.</a></span></li>
+<li><strong>[2018-2019,2019-2020,2020-2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">“Award of Honor for Graduate” of Zhejiang University.</a></span></li>
+<li><strong>[Every year from 2017 to 2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">Zhejiang University Academic Scholarship.</a></span></li>
+<li><strong>[EDC. 2016]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">Third Prize in the 7th Shandong Provincial College Student Mathematics Competition</a></span> (Non-Mathematics Majors). </li>
+<li><strong>[DEC. 2016]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">Second Prize in the 2016 Linear Algebra Competition at China University of Petroleum (East China).</a></span></li>
+<li><strong>[SEP. 2015]</strong> <span style="color:#e74d3c"><a href="/assets/files/The National Scholarship for Doctoral Students of China.pdf">Outstanding Student Cadre of the Student Union of the School of Mechanical and Electrical Engineering at China University of Petroleum (East China).</a></span></li>
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
