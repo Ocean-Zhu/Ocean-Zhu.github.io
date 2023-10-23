@@ -16,8 +16,8 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "SCHOLARSHIPS&AWARDS"
-    url: ./SCHOLARSHIPS&AWARDS/
+  - title: "Scholarships&Awards"
+    url: ./Scholarships&Awards/
 
   - title: "Bio"
     url: ./#about-me
