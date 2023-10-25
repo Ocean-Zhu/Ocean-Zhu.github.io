@@ -1,12 +1,12 @@
 main:
 
-  - title: AutoVA - Automated VCMA & AHE Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to 1. control the E-field applied for the VCMA/Magnetoelectric coupling; 2. to control the elctromagnetic field; 3. to control the SMU to apply one bias current ,and meanwhile measuring the Hall voltage. All the parameters can be set correspondingly and sequencer can be made to realize the automation.
-    pdf: ./assets/files/AutoVA.pdf
+  - title: AutoVA -Defects of Subsea Pipelines Mapping Based 3D Structured Light and Subsea Habitat.
+    authors: Zhu Hai
+    project_short: Subsea Pipeline Engineering
+    project: The safety of submarine pipelines is crucial to offshore oil and gas operations. This study developed an unmanned submarine light-scanning mapping system that combines structured light technology with a large-scale underwater dry chamber, enabling precise in-situ external pipeline inspection in the high-turbidity condition. A sophisticated structured light scanning driving system(SLSDS) for precise motion control of the structured-light scanner is designed, combined with the motor synchronous drive technology and tailored strategies for pipeline mapping, leading to a seamless full scan in a single deployment. In addition, a shipboard electric control subsystem(SECS) is set up to provide an integrated solution for power supply, sensing, communication, and control. The proposed dry-cabin mapping system has been successfully applied in the Zhoushan sea area offshore, demonstrating its potential to be widely used in the offshore area with poor-visibility underwater conditions. China Natural Resources Daily reported the project.
+    pdf: ./assets/files/pipeline report.pdf
     web: 
-    image: ./assets/img/autova.png
+    image: ./assets/img/pipeline sea trial.jpg
     notes: Non-Open Source
 
 
