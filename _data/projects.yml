@@ -3,16 +3,16 @@ main:
   - title: Defects of Subsea Pipelines Mapping Based 3D Structured Light and Subsea Habitat.
     authors: Zhu Hai
     project_short: Subsea Pipeline Engineering
-    project: The safety of submarine pipelines is crucial to offshore oil and gas operations. This study developed an unmanned submarine light-scanning mapping system that combines structured light technology with a large-scale underwater dry chamber, enabling precise in-situ external pipeline inspection in the high-turbidity condition. China Natural Resources Daily reported the project.
+    project: The safety of submarine pipelines is crucial to offshore oil and gas operations. This study developed an unmanned submarine light-scanning mapping system that combines structured light technology with a large-scale underwater habitat, enabling precise in-situ external pipeline inspection in the high-turbidity condition. China Natural Resources Daily reported the project.
     pdf: ./assets/files/pipeline report.pdf
     web: 
     image: ./assets/img/pipeline sea trial.jpg
-    notes: <span style="color:#e74d3c"><a href="/assets/files/Related journal submission drafts.pdf">Related journal submission manuscript.</a></span>
-  - title: Post-processing of NGH Samples
+    notes: <span style="color:#e74d3c"><a href="/assets/files/Related submitted journal manuscript and published papers.pdf">Related submitted journal manuscript and published papers.</a></span>
+  - title: NGH Samples‘ High-fidelity Cutting
     authors: Zhu Hai
-    project_short: NGH Samples' High-fidelity Cutting
-    project: The safety of submarine pipelines is crucial to offshore oil and gas operations. This study developed an unmanned submarine light-scanning mapping system that combines structured light technology with a large-scale underwater dry chamber, enabling precise in-situ external pipeline inspection in the high-turbidity condition. China Natural Resources Daily reported the project.
-    pdf: ./assets/files/pipeline report.pdf
-    web: 
-    image: ./assets/img/pipeline sea trial.jpg
-    notes: <span style="color:#e74d3c"><a href="/assets/files/Related journal submission drafts.pdf">Related journal submission manuscript.</a></span>
+    project_short: NGH 
+    project: A new cutting device utilizes two servo motors to achieve a high degree of automation. Based on Archimedes spiral, low disturbance of the cut surface and accurate control of the process have been achieved.
+    pdf: 
+    web: href=“https://mp.weixin.qq.com/s?__biz=MzA4NDQ4NjYxNQ==&mid=2652078632&idx=1&sn=2319028abf622bd1beda263acf3bac5c&chksm=84015290b376db86c6e881ac7060c568696cf777c6b7d53110beb08a7386dcdc6a8097d38f3c&scene=27”
+    image: ./assets/img/NGH.jpg
+    notes: <span style="color:#e74d3c"><a href="/assets/files/NGH.pdf">Published journal article and conference papers.</a></span>
