@@ -8,3 +8,12 @@ main:
     web: 
     image: ./assets/img/pipeline sea trial.jpg
     notes: <span style="color:#e74d3c"><a href="/assets/files/Related journal submission drafts.pdf">Related journal submission manuscript.</a></span>
+
+- title: Defects of Subsea Pipelines Mapping Based 3D Structured Light and Subsea Habitat.
+    authors: Zhu Hai
+    project_short: Subsea Pipeline Engineering
+    project: The safety of submarine pipelines is crucial to offshore oil and gas operations. This study developed an unmanned submarine light-scanning mapping system that combines structured light technology with a large-scale underwater dry chamber, enabling precise in-situ external pipeline inspection in the high-turbidity condition. China Natural Resources Daily reported the project.
+    pdf: ./assets/files/pipeline report.pdf
+    web: 
+    image: ./assets/img/pipeline sea trial.jpg
+    notes: <span style="color:#e74d3c"><a href="/assets/files/Related journal submission drafts.pdf">Related journal submission manuscript.</a></span>
