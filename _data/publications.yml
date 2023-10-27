@@ -21,7 +21,7 @@ main:
     notes: Published
 
   - title: Rheological behavior for laponite and bentonite suspensions in shear flow
-    authors:  Yuan Lin; <strong>Hai ZHU</strong>; Wei Wang; Jiawang Chen; Nhan Phan-Thien; Dingyi Pan
+    authors: Yuan Lin; <strong>Hai ZHU</strong>; Wei Wang; Jiawang Chen; Nhan Phan-Thien; Dingyi Pan
     conference_short: AIP Advances
     conference: AIP Advances
     pdf: ./assets/files/2019 Rheology.pdf
@@ -49,25 +49,3 @@ main:
     bibtex: ./assets/files/MTS 2023.txt
     image: ./assets/img/MTS 2023.png
     notes: Published
-
-  - title: Analysis and Research on Mobile Drilling Rig for Deep Seabed Shallow Strata
-    authors: Ziqiang Ren, Feng Zhou, <strong>Hai ZHU</strong>, Peihao Zhang, Jiawang Chen, Peng Zhou, Lieyu Tian, Chunhu Liu, Xiaochao Zhang
-    conference_short: MTSJ
-    conference: Marine Technology Society Journal
-    pdf: ./assets/files/MTS 2021.pdf
-    page: https://doi.org/10.4031/MTSJ.55.2.7
-    bibtex: ./assets/files/MTS 2021.txt
-    image: ./assets/img/MTS 2021.png
-    notes: Published
-
-  - title: A Review of Stratum-Drilling Robots: Developing for Seabed Exploration
-    authors: Peihao Zhang, Jiawang Chen, Zhenwei Tian, <strong>Hai ZHU</strong>, Ziqiang Ren
-    conference_short: MTSJ
-    conference: Marine Technology Society Journal
-    pdf: ./assets/files/MTS 2022.pdf
-    page: http://dx.doi.org/10.4031/mtsj.56.1.6
-    bibtex: ./assets/files/MTS 2022.txt
-    image: ./assets/img/MTS 2022.png
-    notes: Published
-
-    
