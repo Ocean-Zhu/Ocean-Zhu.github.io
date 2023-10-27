@@ -99,3 +99,23 @@ main:
     bibtex: ./assets/files/IEEE 2022.txt
     image: ./assets/img/IEEE 2022.png
     notes: Published
+
+  - title: Monitoring the vertical changes of a tidal flat using a MEMS accelerometer array
+    authors: Chunying Xu, Jiawang Chen, Yongqiang Ge, Ziqiang Ren, Chen Cao, <strong>Hai Zhu</strong>, Yue Huang, Hao Wang, Wei Wang
+    conference_short: APOR
+    conference: Applied Ocean Research
+    pdf: ./assets/files/APOR 2020.pdf
+    page: http://dx.doi.org/10.1016/j.apor.2020.102186
+    bibtex: ./assets/files/APOR 2020.txt
+    image: ./assets/img/APOR 2020.png
+    notes: Published
+
+  - title: Design and laboratory testing of a MEMS accelerometer array for subsidence monitoring
+    authors: Chunying Xu, Jiawang Chen, Huangchao Zhu, Peihao Zhang, Ziqiang Ren, <strong>Hai Zhu</strong>, Yuan Lin
+    conference_short: RSI
+    conference: Review of Scientific Instruments
+    pdf: ./assets/files/RSI 2018.pdf
+    page: http://dx.doi.org/10.1063/1.5036666
+    bibtex: ./assets/files/RSI 2018.txt
+    image: ./assets/img/RSI 2018.png
+    notes: Published

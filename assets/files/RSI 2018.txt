@@ -1,0 +1,12 @@
+@article{Xu_2018,
+    doi = {10.1063/1.5036666},
+    url = {https://doi.org/10.1063%2F1.5036666},
+    year = {2018},
+    month = {aug},
+    publisher = {{AIP} Publishing},
+    volume = {89},
+    number = {8},
+    author = {Chunying Xu and Jiawang Chen and Huangchao Zhu and Peihao Zhang and Ziqiang Ren and Hai Zhu and Yuan Lin},
+    title = {Design and laboratory testing of a {MEMS} accelerometer array for subsidence monitoring},
+    journal = {Review of Scientific Instruments}
+} 
