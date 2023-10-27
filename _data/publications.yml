@@ -21,13 +21,23 @@ main:
     notes: Published
 
   - title: Rheological behavior for laponite and bentonite suspensions in shear flow
-    authors: Yuan Lin; <strong>Hai Zhu</strong>; Wei Wang; Jiawang Chen; Nhan Phan-Thien; Dingyi Pan
+    authors: Yuan Lin, <strong>Hai Zhu</strong>, Wei Wang, Jiawang Chen, Nhan Phan-Thien, Dingyi Pan
     conference_short: AIP Advances
     conference: AIP Advances
     pdf: ./assets/files/2019 Rheology.pdf
     page: https://doi.org/10.1063/1.5129211
     bibtex: ./assets/files/2019 Rheology.txt
     image: ./assets/img/2019 Rheology.png
+    notes: Published
+
+  - title: Size effect of the parallel-plate geometry on the rheological behavior of bentonite suspensions
+    authors: Yuan Lin, Wei Wang, <strong>Hai Zhu</strong>, Jiawang Chen, Nhan Phan-Thien, Dingyi Pan
+    conference_short: Journal of Rheology
+    conference: Journal of Rheology
+    pdf: ./assets/files/Rheology 2020.pdf
+    page: http://dx.doi.org/10.1122/1.5116118
+    bibtex: ./assets/files/Rheology 2020.txt
+    image: ./assets/img/Rheology 2020.png
     notes: Published
 
   - title: Simulation study on the hydrodynamic resistance and stability of a disk-shaped autonomous underwater helicopter

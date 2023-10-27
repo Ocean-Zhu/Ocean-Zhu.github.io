@@ -1,0 +1,13 @@
+@article{Lin_2020,
+    doi = {10.1122/1.5116118},
+    url = {https://doi.org/10.1122%2F1.5116118},
+    year = {2020},
+    month = {jan},
+    publisher = {Society of Rheology},
+    volume = {64},
+    number = {1},
+    pages = {111--117},
+    author = {Yuan Lin and Wei Wang and Hai Zhu and Jiawang Chen and Nhan Phan-Thien and Dingyi Pan},
+    title = {Size effect of the parallel-plate geometry on the rheological behavior of bentonite suspensions},
+    journal = {Journal of Rheology}
+} 
