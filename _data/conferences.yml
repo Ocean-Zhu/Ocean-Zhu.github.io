@@ -6,7 +6,7 @@ main:
     conference: OCEANS 2019 MTS/IEEE SEATTLE
     pdf: ./assets/files/OCEANS 2019.pdf
     web: http://dx.doi.org/10.23919/oceans40490.2019.8962564
-    image: ./assets/img/OCEANS 2019.jpg
+    image: ./assets/img/SEATTLE.jpg
 
   - title: A high pressure holding and cutting device for sampling tube of natural gas hydrate
     authors: <strong>Hai Zhu</strong>, Jiawang Chen, Yuan Lin, Peihao Zhang, Huangchao Zhu, Ziqang ren
