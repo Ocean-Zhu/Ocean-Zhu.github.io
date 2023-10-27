@@ -1,0 +1,13 @@
+@article{Zhu_2022,
+    doi = {10.1631/jzus.a2100188},
+    url = {https://doi.org/10.1631%2Fjzus.a2100188},
+    year = {2022},
+    month = {jan},
+    publisher = {Zhejiang University Press},
+    volume = {23},
+    number = {1},
+    pages = {40--54},
+    author = {Hai Zhu and Jia-wang Chen and Zi-qiang Ren and Pei-hao Zhang and Qiao-ling Gao and Xiao-ling Le and Chun-ying Xu and Kai He and Peng Zhou and Feng Gao and Yu-ping Fang},
+    title = {A new technique for high-fidelity cutting technology for hydrate samples},
+    journal = {Journal of Zhejiang University-{SCIENCE} A}
+} 
