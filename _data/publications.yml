@@ -1,5 +1,15 @@
 main:
 
+  - title: In-situ Submarine Pipeline Inspection Based on the Structured Light in the Highturbidity Condition
+    authors: Hai Zhu, Jiawang Chen, Yuan Lin, Peng Zhou, Peiwen Lin, Xiaoqing Peng, Haonan Li, Kaichuang Wang, Jin Guo, Xueyu Ren, Han Ge, Zhonghui Zhou, Yuping Fang, Zhenjun Jiang, Feng Gao, Wendi Dai, Xuehua Chen, Guoming Cao, Honghe Li, Xu Gao, Zhaoqiang Sun
+    conference_short: Measurement
+    conference: Measurement
+    pdf: ./assets/files/Measurement 2023.pdf
+    page: 
+    bibtex: 
+    image: ./assets/img/Measurement 2023.jpg
+    notes: Under Review
+
   - title: A new technique for high-fidelity cutting technology for hydrate samples
     authors: <strong>Hai ZHU</strong>, Jia-wang CHEN, Zi-qiang REN, Pei-hao ZHANG, Qiao-ling GAO, Xiao-ling LE, Chun-ying XU, Kai HE, Peng ZHOU, Feng GAO, Yu-ping FANG
     conference_short: ZJUSA
