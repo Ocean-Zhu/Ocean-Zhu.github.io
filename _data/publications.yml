@@ -17,16 +17,16 @@ main:
     pdf: ./assets/files/2019 Rheology.pdf
     page: https://doi.org/10.1063/1.5129211
     bibtex: ./assets/files/2019 Rheology.txt
-    image: ./assets/img/2019 Rheology.jpg
+    image: ./assets/img/2019 Rheology.png
     notes: Published
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+  - title: Simulation study on the hydrodynamic resistance and stability of a disk-shaped autonomous underwater helicopter
+    authors: Yuan Lin, Yue Huang, <strong>Hai ZHU</strong>, Haocai Huang, Ying Chen
+    conference_short: Ocean Engineering
+    conference: Ocean Engineering
+    pdf: ./assets/files/2021 AUV.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S0029801820312920
+    bibtex: ./assets/files/2021 AUV.txt
+    image: ./assets/img/2021 AUV.png
     notes: Published
 
