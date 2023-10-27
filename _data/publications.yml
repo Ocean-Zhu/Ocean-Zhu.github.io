@@ -60,6 +60,16 @@ main:
     image: ./assets/img/MTS 2021.png
     notes: Published
 
+  - title: Study on the Motion Stability of the Autonomous Underwater Helicopter
+    authors: Yuan Lin, Jin Guo, Haonan li; <strong>Hai Zhu</strong>, Haocai Huang, Ying Chen
+    conference_short: JMSE
+    conference: Journal of Marine Science and Engineering
+    pdf: ./assets/files/JMSE 2022.pdf
+    page: http://dx.doi.org/10.3390/jmse10010060
+    bibtex: ./assets/files/JMSE 2022.txt
+    image: ./assets/img/JMSE 2022.png
+    notes: Published
+
   - title: A Review of Stratum-Drilling Robots:Developing for Seabed Exploration
     authors: Peihao Zhang, Jiawang Chen, Zhenwei Tian, <strong>Hai Zhu</strong>, Ziqiang Ren
     conference_short: MTSJ

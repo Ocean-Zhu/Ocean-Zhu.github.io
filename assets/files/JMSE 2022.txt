@@ -1,0 +1,13 @@
+@article{Lin_2022,
+    doi = {10.3390/jmse10010060},
+    url = {https://doi.org/10.3390%2Fjmse10010060},
+    year = {2022},
+    month = {jan},
+    publisher = {{MDPI} {AG}},
+    volume = {10},
+    number = {1},
+    pages = {60},
+    author = {Yuan Lin and Jin Guo and Haonan Li and Hai Zhu and Haocai Huang and Ying Chen},
+    title = {Study on the Motion Stability of the Autonomous Underwater Helicopter},
+    journal = {Journal of Marine Science and Engineering}
+} 
