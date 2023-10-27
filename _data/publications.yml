@@ -90,7 +90,7 @@ main:
     image: ./assets/img/MTS 2022.png
     notes: Published
 
-  - title: MEMS Sensor Network for Submarine Terrain and Strata Deformation Monitoring: Design and Field Experiment
+  - title: MEMS Sensor Network for Submarine Terrain and Strata Deformation Monitoring:Design and Field Experiment
     authors: Yongqiang Ge, Jiawang Chen, Chen Cao, Peng Zhou, Chunying Xu, <strong>Hai Zhu</strong>, Qixiao Zhou
     conference_short: TIM
     conference: IEEE Transactions on Instrumentation and Measurement
