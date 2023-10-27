@@ -1,0 +1,13 @@
+@article{Zhou_2023,
+    doi = {10.4031/mtsj.57.1.6},
+    url = {https://doi.org/10.4031%2Fmtsj.57.1.6},
+    year = {2023},
+    month = {feb},
+    publisher = {Marine Technology Society},
+    volume = {57},
+    number = {1},
+    pages = {35--43},
+    author = {Peng Zhou and Xiaoqing Peng and Hai Zhu and Xueyu Ren and Peiweng Lin and Kaichuang Wang and Haonan Li and Zhonghui Zhou and Jiawang Chen and Jun Li and Xuehua Chen and Guomin Cao and Xu Gao},
+    title = {Research on 3-D Precise Mapping System for Deformation Defects of Submarine Pipeline},
+    journal = {Marine Technology Society Journal}
+} 

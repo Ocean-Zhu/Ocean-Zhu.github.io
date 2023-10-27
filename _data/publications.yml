@@ -1,7 +1,7 @@
 main:
 
   - title: In-situ Submarine Pipeline Inspection Based on the Structured Light in the Highturbidity Condition
-    authors: Hai Zhu, Jiawang Chen, Yuan Lin, Peng Zhou, Peiwen Lin, Xiaoqing Peng, Haonan Li, Kaichuang Wang, Jin Guo, Xueyu Ren, Han Ge, Zhonghui Zhou, Yuping Fang, Zhenjun Jiang, Feng Gao, Wendi Dai, Xuehua Chen, Guoming Cao, Honghe Li, Xu Gao, Zhaoqiang Sun
+    authors: <strong>Hai ZHU</strong>, Jiawang Chen, Yuan Lin, Peng Zhou, Peiwen Lin, Xiaoqing Peng, Haonan Li, Kaichuang Wang, Jin Guo, Xueyu Ren, Han Ge, Zhonghui Zhou, Yuping Fang, Zhenjun Jiang, Feng Gao, Wendi Dai, Xuehua Chen, Guoming Cao, Honghe Li, Xu Gao, Zhaoqiang Sun
     conference_short: Measurement
     conference: Measurement
     pdf: ./assets/files/Measurement 2023.pdf
@@ -40,3 +40,12 @@ main:
     image: ./assets/img/2021 AUV.png
     notes: Published
 
+  - title: Research on 3-D Precise Mapping System for Deformation Defects of Submarine Pipeline
+    authors: Peng Zhou, Xiaoqing Peng, <strong>Hai ZHU</strong>, Xueyu Ren, Peiweng Lin, Kaichuang Wang, Haonan Li, Zhonghui Zhou, Jiawang Chen, Jun Li, Xuehua Chen, Guomin Cao, Xu Gao
+    conference_short: MTSJ
+    conference: Marine Technology Society Journal
+    pdf: ./MTS 2023.pdf
+    page: https://doi.org/10.4031/MTSJ.57.1.6
+    bibtex: ./assets/files/MTS 2023.txt
+    image: ./assets/img/MTS 2023.png
+    notes: Published
