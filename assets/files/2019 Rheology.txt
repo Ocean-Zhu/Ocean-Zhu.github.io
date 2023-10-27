@@ -1,0 +1,13 @@
+@article{Lin_2019,
+    doi = {10.1063/1.5129211},
+    url = {https://doi.org/10.1063%2F1.5129211},
+    year = {2019},
+    month = {dec},
+    publisher = {{AIP} Publishing},
+    volume = {9},
+    number = {12},
+    pages = {125233},
+    author = {Yuan Lin and Hai Zhu and Wei Wang and Jiawang Chen and Nhan Phan-Thien and Dingyi Pan},
+    title = {Rheological behavior for laponite and bentonite suspensions in shear flow},
+    journal = {{AIP} Advances}
+} 

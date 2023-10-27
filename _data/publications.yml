@@ -1,7 +1,7 @@
 main:
 
   - title: A new technique for high-fidelity cutting technology for hydrate samples
-    authors: <strong>Hai ZHU<strong>, Jia-wang CHEN, Zi-qiang REN, Pei-hao ZHANG, Qiao-ling GAO, Xiao-ling LE, Chun-ying XU, Kai HE, Peng ZHOU, Feng GAO, Yu-ping FANG
+    authors: <strong>Hai ZHU</strong>, Jia-wang CHEN, Zi-qiang REN, Pei-hao ZHANG, Qiao-ling GAO, Xiao-ling LE, Chun-ying XU, Kai HE, Peng ZHOU, Feng GAO, Yu-ping FANG
     conference_short: ZJUSA
     conference: Journal of Zhejiang University-SCIENCE A
     pdf: ./assets/files/Zhu 2022 NGH.pdf
@@ -11,13 +11,13 @@ main:
     notes: Published
 
   - title: Rheological behavior for laponite and bentonite suspensions in shear flow
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
+    authors:  Yuan Lin; <strong>Hai ZHU</strong>; Wei Wang; Jiawang Chen; Nhan Phan-Thien; Dingyi Pan
+    conference_short: AIP Advances
+    conference: AIP Advances
+    pdf: ./assets/files/2019 Rheology.pdf
+    page: https://doi.org/10.1063/1.5129211
+    bibtex: ./assets/files/2019 Rheology.txt
+    image: ./assets/img/2019 Rheology.jpg
     notes: Published
 
   - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
@@ -30,4 +30,3 @@ main:
     image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
     notes: Published
 
-  
