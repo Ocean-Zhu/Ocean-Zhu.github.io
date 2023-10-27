@@ -60,7 +60,7 @@ main:
     image: ./assets/img/MTS 2021.png
     notes: Published
 
-  - title: A Review of Stratum-Drilling Robots:' Developing for Seabed Exploration
+  - title: A Review of Stratum-Drilling Robots:Developing for Seabed Exploration
     authors: Peihao Zhang, Jiawang Chen, Zhenwei Tian, <strong>Hai Zhu</strong>, Ziqiang Ren
     conference_short: MTSJ
     conference: Marine Technology Society Journal
