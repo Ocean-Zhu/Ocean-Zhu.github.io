@@ -1,0 +1,13 @@
+@article{Ren_2021,
+    doi = {10.4031/mtsj.55.2.7},
+    url = {https://doi.org/10.4031%2Fmtsj.55.2.7},
+    year = {2021},
+    month = {mar},
+    publisher = {Marine Technology Society},
+    volume = {55},
+    number = {2},
+    pages = {81--93},
+    author = {Ziqiang Ren and Feng Zhou and Hai Zhu and Peihao Zhang and Jiawang Chen and Peng Zhou and Lieyu Tian and Chunhu Liu and Xiaochao Zhang},
+    title = {Analysis and Research on Mobile Drilling Rig for Deep Seabed Shallow Strata},
+    journal = {Marine Technology Society Journal}
+} 

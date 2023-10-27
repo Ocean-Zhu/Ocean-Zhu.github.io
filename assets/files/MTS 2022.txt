@@ -1,0 +1,13 @@
+@article{Zhang_2022,
+    doi = {10.4031/mtsj.56.1.6},
+    url = {https://doi.org/10.4031%2Fmtsj.56.1.6},
+    year = {2022},
+    month = {feb},
+    publisher = {Marine Technology Society},
+    volume = {56},
+    number = {1},
+    pages = {98--117},
+    author = {Peihao Zhang and Jiawang Chen and Zhenwei Tian and Hai Zhu and Ziqiang Ren},
+    title = {A Review of Stratum-Drilling Robots: Developing for Seabed Exploration},
+    journal = {Marine Technology Society Journal}
+} 
