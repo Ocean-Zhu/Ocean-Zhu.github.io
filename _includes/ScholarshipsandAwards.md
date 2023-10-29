@@ -11,6 +11,7 @@
 <li><strong>[JUL. 2022]</strong> <span style="color:#e74d3c"><a href="/assets/files/The Third Prize.pdf">The Third Prize in the 9th China Graduate Energy Equipment Innovation Design Competition</a></span> (First order).</li>
 <li><strong>[DEC. 2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/The Second Prize.pdf">The Second Prize of the 6th "Ocean Tide Cup" at Ocean College, Zhejiang University.</a></span> (Third order).</li>
 <li><strong>[2020-2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/Graduate of Merit:Tripe A graduate.pdf">“Graduate of Merit/Tripe A graduate” of Zhejiang University.</a></span></li>
+<li><strong>[2019,2020,2021]</strong> <span style="color:#e74d3c"><a href="/assets/files/Award of Honor for Graduate.pdf">“Award of Honor for Graduate” of Zhejiang University.</a></span></li>
 <li><strong>[Every year from 2017 to 2021]</strong> <span style="color:#e74d3c"></span>Zhejiang University Academic Scholarship.</li>
 
 
