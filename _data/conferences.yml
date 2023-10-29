@@ -36,6 +36,14 @@ main:
     image: ./assets/img/ISOPE.png
     notes: Published
 
+  - title: Design of a drilling unit for deep-sea stratum drilling robot
+    authors: Z Tian; J Chen; P Zhang; <strong>H Zhu</strong>; D Ruan; Y Ge
+    conference: 11th Conference of Asian Rock Mechanics Society
+    pdf: ./assets/files/ARMS11.pdf
+    web: https://iopscience.iop.org/article/10.1088/1755-1315/861/7/072031
+    image: ./assets/img/ARMS11.png
+    notes: Published
+
   - title: Air Habitat for Detection and Repair of Submarine Oil Pipelines in Complex Sea Conditions
     authors: Peiwen Lin, Xingshuang Lin, Qixiao Zhou, Yuan Lin, Jiawang Chen, Han Ge, <strong>Hai Zhu</strong>, Xueyu Ren, Xiaoqing Peng, Kaichuang Wang
     conference_short: OCEANS 2023

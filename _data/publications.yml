@@ -119,3 +119,11 @@ main:
     bibtex: ./assets/files/RSI 2018.txt
     image: ./assets/img/RSI 2018.png
     notes: Published
+
+  - title: ALL PATENTS
+    authors:<strong>Hai Zhu</strong> et al.
+    conference_short: PATENTS
+    conference: Including authorized and publicly available
+    pdf: ./assets/files/PATENTS.pdf
+    image: ./assets/img/PATENTS.png
+    notes: 5 authorizations, 10 disclosures
