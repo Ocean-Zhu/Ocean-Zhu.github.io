@@ -121,7 +121,7 @@ main:
     notes: Published
 
   - title: ALL PATENTS
-    authors:<strong>Hai Zhu</strong> et al.
+    authors: <strong>Hai Zhu</strong> et al.
     conference_short: PATENTS
     conference: Including authorized and publicly available
     pdf: ./assets/files/PATENTS.pdf
