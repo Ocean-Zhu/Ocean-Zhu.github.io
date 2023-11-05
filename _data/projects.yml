@@ -1,7 +1,7 @@
 main:
 
   - title: Defects of Subsea Pipelines Mapping Based 3D Structured Light and Subsea Habitat.
-    authors: Zhu Hai
+    authors: Hai Zhu
     project_short: Subsea Pipeline Engineering
     project: The safety of submarine pipelines is crucial to offshore oil and gas operations. This study developed an unmanned submarine light-scanning mapping system that combines structured light technology with a large-scale underwater habitat, enabling precise in-situ external pipeline inspection in the high-turbidity condition. China Natural Resources Daily reported the project.
     pdf: /assets/files/Related submitted journal manuscript and published papers.pdf
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/pipeline sea trial.jpg
     notes: <span style="color:#e74d3c"><a href="./assets/files/pipeline report.pdf">Media report and team photos.</a></span>
   - title: NGH Samples‘ High-fidelity Cutting
-    authors: Zhu Hai
+    authors: Hai Zhu
     project_short: NGH 
     project: A new cutting device utilizes two servo motors to achieve a high degree of automation. Based on Archimedes spiral, low disturbance of the cut surface and accurate control of the process have been achieved.
     pdf: /assets/files/NGH.pdf
