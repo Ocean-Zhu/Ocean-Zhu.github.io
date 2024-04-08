@@ -1,6 +1,32 @@
 main:
-
-
+ - title: The Application of Structured Light for External Subsea Pipeline Inspection Based on the Underwater Dry Chamber
+    authors: <strong>Hai Zhu</strong>, Jiawang Chen, Yuan Lin, Peng Zhou, Peiwen Lin, Xiaoqing Peng, Haonan Li, Kaichuang Wang, Jin Guo, Xueyu Ren, Han Ge, Zhonghui Zhou, Yuping Fang, Zhenjun Jiang, Feng Gao, Wendi Dai, Xuehua Chen, Guoming Cao, Honghe Li, Xu Gao, Zhaoqiang Sun
+    conference_short: APOR
+    conference: Applied Ocean Research
+    pdf: ./assets/files/APOR-D-23-01453.pdf
+    page: 
+    bibtex: 
+    image: ./assets/img/APOR 2023.jpg
+    notes: Under Review
+    
+  - title: Subsea Pipeline Defect Mapping: A Bold and Successful Attempt Based  on Dry Cabin and Structured Light
+    authors: <strong>Hai Zhu</strong>, Yuan Lin, Zhangyong Jin, Jin Guo, Jiawang Chen, Han Ge, Kaichuang Wang, Peiwen Lin, Haonan Li, Xiaoqing Peng, Peng Zhou, Yuping Fang, Xueyu Ren, Yuhong Wang, Yongqiang Ge, Xuehua Chen, Xu Gao, Yuanjie Chen
+    conference_short: Engineering Structures
+    conference: Engineering Structures
+    pdf: ./assets/files/ENGSTRUCT-D-24-02187.pdf
+    page: 
+    bibtex: 
+    image: ./assets/img/Engineering Structures 2024.jpg
+    notes: Under Review
+  - title: In-Line Inspection (ILI) Techniques for Subsea Pipelines: State-of-the-Art
+    authors: <strong>Hai ZHU</strong>, Jiawang Chen, Yuan Lin, Jin Guo, Xu Gao, Yuanjie Chen, Yongqiang Ge, Wei Wang
+    conference_short: JMSE
+    conference: Journal of Marine Science and Engineering
+    pdf: ./assets/files/JMSE 2024.pdf
+    page: https://www.mdpi.com/2077-1312/12/3/417
+    bibtex: ./assets/files/JMSE 2024.txt
+    image: ./assets/img/JMSE 2024.jpg
+    notes: Published
 
   - title: A new technique for high-fidelity cutting technology for hydrate samples
     authors: <strong>Hai ZHU</strong>, Jia-wang CHEN, Zi-qiang REN, Pei-hao ZHANG, Qiao-ling GAO, Xiao-ling LE, Chun-ying XU, Kai HE, Peng ZHOU, Feng GAO, Yu-ping FANG
