@@ -9,7 +9,7 @@ main:
     image: ./assets/img/APOR 2023.jpg
     notes: Under Review
     
-  - title: Subsea Pipeline Defect Mapping: A Bold and Successful Attempt Based  on Dry Cabin and Structured Light
+  - title: Subsea Pipeline Defect Mapping:A Bold and Successful Attempt Based  on Dry Cabin and Structured Light
     authors: <strong>Hai Zhu</strong>, Yuan Lin, Zhangyong Jin, Jin Guo, Jiawang Chen, Han Ge, Kaichuang Wang, Peiwen Lin, Haonan Li, Xiaoqing Peng, Peng Zhou, Yuping Fang, Xueyu Ren, Yuhong Wang, Yongqiang Ge, Xuehua Chen, Xu Gao, Yuanjie Chen
     conference_short: Engineering Structures
     conference: Engineering Structures
@@ -18,7 +18,8 @@ main:
     bibtex: 
     image: ./assets/img/Engineering Structures 2024.jpg
     notes: Under Review
-  - title: In-Line Inspection (ILI) Techniques for Subsea Pipelines: State-of-the-Art
+    
+  - title: In-Line Inspection (ILI) Techniques for Subsea Pipelines:State-of-the-Art
     authors: <strong>Hai ZHU</strong>, Jiawang Chen, Yuan Lin, Jin Guo, Xu Gao, Yuanjie Chen, Yongqiang Ge, Wei Wang
     conference_short: JMSE
     conference: Journal of Marine Science and Engineering
