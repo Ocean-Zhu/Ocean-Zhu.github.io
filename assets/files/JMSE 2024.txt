@@ -1,0 +1,17 @@
+
+@Article{jmse12030417,
+AUTHOR = {Zhu, Hai and Chen, Jiawang and Lin, Yuan and Guo, Jin and Gao, Xu and Chen, Yuanjie and Ge, Yongqiang and Wang, Wei},
+TITLE = {In-Line Inspection (ILI) Techniques for Subsea Pipelines: State-of-the-Art},
+JOURNAL = {Journal of Marine Science and Engineering},
+VOLUME = {12},
+YEAR = {2024},
+NUMBER = {3},
+ARTICLE-NUMBER = {417},
+URL = {https://www.mdpi.com/2077-1312/12/3/417},
+ISSN = {2077-1312},
+ABSTRACT = {Offshore oil and gas resources play a crucial role in supplementing the energy needs of human society. The crisscrossing subsea pipeline network, which serves as vital infrastructure for the storage and transportation of offshore oil and gas, requires regular inspection and maintenance to ensure safe operation and prevent ecological pollution. In-line inspection (ILI) techniques have been widely used in the detection and inspection of potential hazards within the pipeline network. This paper offers an overview of ILI techniques used in subsea pipelines, examining their advantages, limitations, applicable scenarios, and performance. It aims to provide valuable insights for the selection of ILI technologies in engineering and may be beneficial for those involved in pipeline integrity management and planning.},
+DOI = {10.3390/jmse12030417}
+}
+
+
+

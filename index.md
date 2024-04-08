@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Ph.D. student in Ocean Technology and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), working under the mentorship of [Professor Jiawang Chen](https://www.researchgate.net/profile/Jiawang-Chen), [Professor Yuan Lin](https://person.zju.edu.cn/en/linyuan#0), and [Professor Peiliang Li](https://person.zju.edu.cn/en/lipeiliang#0). My research focuses on the following aspects of ocean engineering: pipeline engineering, gas hydrates, soft robotic fish, offshore geotechnical engineering, and rheology, with a special focus on the external inspection of subsea pipelines. 
+I am currently a Ph.D. student in Ocean Technology and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), working under the mentorship of [Professor Jiawang Chen](https://www.researchgate.net/profile/Jiawang-Chen) and [Professor Yuan Lin](https://person.zju.edu.cn/en/linyuan#0). My research focuses on the following aspects of ocean engineering: pipeline engineering, gas hydrates, soft robotic fish, offshore geotechnical engineering, and rheology, with a special focus on the external inspection of subsea pipelines. 
 
 {% include_relative _includes/Research_Interest.md %}
 
