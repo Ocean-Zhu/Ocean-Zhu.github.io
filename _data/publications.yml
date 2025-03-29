@@ -6,18 +6,18 @@ main:
     pdf: ./assets/files/APOR-2025-01.pdf
     page: 
     bibtex: 
-    image: ./assets/img/APOR 2025.jpg
+    image: ./assets/img/APOR 2023.jpg
     notes: Published
     
-  - title: Subsea Pipeline Defect Mapping:A Bold and Successful Attempt Based  on Dry Cabin and Structured Light
-    authors: <strong>Hai Zhu</strong>, Yuan Lin, Zhangyong Jin, Jin Guo, Jiawang Chen, Han Ge, Kaichuang Wang, Peiwen Lin, Haonan Li, Xiaoqing Peng, Peng Zhou, Yuping Fang, Xueyu Ren, Yuhong Wang, Yongqiang Ge, Xuehua Chen, Xu Gao, Yuanjie Chen
-    conference_short: Engineering Structures
-    conference: Engineering Structures
-    pdf: ./assets/files/ENGSTRUCT-D-24-02187.pdf
+  - title: Research on precision inspection of subsea pipeline defects based on dry cabin and structured light
+    authors: <strong>Hai Zhu</strong>, Yuan Lin, Zhangyong Jin, Jin Guo, Peiwen Lin, Jiawang Chen, Jie Chen, Han Ge, Kaichuang Wang, Haonan Li, Xiaoqing Peng, Peng Zhou, Yuping Fang, Xueyu Ren, Yuhong Wang, Yongqiang Ge, Xuehua Chen, Xu Gao 
+    conference_short: Measurement
+    conference: Measurement
+    pdf: ./assets/files/Measurement-2024.pdf
     page: 
     bibtex: 
-    image: ./assets/img/Engineering Structures 2024.jpg
-    notes: Under Review
+    image: ./assets/img/Measurement 2024.jpg
+    notes: Published
     
   - title: In-Line Inspection (ILI) Techniques for Subsea Pipelines:State-of-the-Art
     authors: <strong>Hai ZHU</strong>, Jiawang Chen, Yuan Lin, Jin Guo, Xu Gao, Yuanjie Chen, Yongqiang Ge, Wei Wang
